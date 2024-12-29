@@ -45,7 +45,7 @@ fun TicTacScreen(
             .fillMaxSize()
             .padding(horizontal = 15.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.SpaceBetween // Пространство между элементами
+        verticalArrangement = Arrangement.SpaceBetween
     ) {
         Column(
             horizontalAlignment = Alignment.CenterHorizontally,
@@ -70,7 +70,7 @@ fun TicTacScreen(
 
         Button(
             onClick = { ticTacToeViewModel.resetBoard() },
-            modifier = Modifier.padding(bottom = 20.dp) // Отступ от нижнего края
+            modifier = Modifier.padding(bottom = 20.dp)
         ) {
             Text(text = "Start new game")
         }
