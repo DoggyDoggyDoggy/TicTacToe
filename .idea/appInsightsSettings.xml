@@ -27,10 +27,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="denys.diomaxius.tic_tac_toe" />
+                  <option name="mobileSdkAppId" value="1:792178684544:android:c4fac12b9fb4b8981dec65" />
+                  <option name="projectId" value="tic-tac-toe-fb5e1" />
+                  <option name="projectNumber" value="792178684544" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
