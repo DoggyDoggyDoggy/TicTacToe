@@ -27,7 +27,3 @@ TicTacToe is a simple Android application that lets you play the classic Tic Tac
 
 Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the **MIT License**.
-
